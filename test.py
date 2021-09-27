@@ -80,4 +80,4 @@ def extract_feature(file_name, **kwargs):
 
 
 
-print(predict_emotion("C:/Users/Ankit/Downloads/tan_001_angry.wav"))
+print(predict_emotion("tan_001_angry.wav"))
